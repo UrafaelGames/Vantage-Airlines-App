@@ -24,7 +24,7 @@ La app verifica automáticamente si hay una nueva versión disponible al abrirse
 ¿Problemas o preguntas? Contáctanos:
 
 - Correo: vantageairlines@gmail.com
-- WhatsApp: +57 300 553 4477
+- WhatsApp: +57 320 708 7410
 
 ---
 
